@@ -1,0 +1,6 @@
+RPC_URL = http://127.0.0.1:7545
+PRIVATE_KEY_PASSWORD = password
+
+# In this version we use encrypted version of private key.
+
+# Please note that Private key password should not be stored here and added into command line before node.
